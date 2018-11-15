@@ -1,0 +1,13 @@
+{
+    "host":{
+        "timeout": {
+            "write": 15,
+            "read": 15,
+            "idle": 60,
+            "cancel": 60 
+        },
+        "domain": "localhost",
+        "port": ":8080"
+    },
+    "image": "/Users/matthewnolf/Documents/Proj/Hackathons/wayfindr/CameraService/image.json"
+}
